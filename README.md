@@ -1,7 +1,6 @@
 # Conclusiones artículos
 
-## [Data Modeling Takes Practice, Practice, Practice] (
-https://www.dbta.com/Columns/Database-Elaborations/Data-Modeling-Takes-Practice-Practice-Practice-119800.aspx)
+## [Data Modeling Takes Practice, Practice, Practice](https://www.dbta.com/Columns/Database-Elaborations/Data-Modeling-Takes-Practice-Practice-Practice-119800.aspx)
 
 
 - No hay una receta para crear bases de datos, cada caso se trata de manera diferente.
@@ -12,7 +11,7 @@ https://www.dbta.com/Columns/Database-Elaborations/Data-Modeling-Takes-Practice-
 
 - Conviene tener una estrategia de evasión de errores, tanto tipográficos como lógicos en los scripts.
 
-## [Improving Communication Between Data Modelers and Enterprise Stakeholders] (https://www.dbta.com/Editorial/Trends-and-Applications/Improving-Communication-Between-Data-Modelers-and-Enterprise-Stakeholders-118726.aspx)
+## [Improving Communication Between Data Modelers and Enterprise Stakeholders](https://www.dbta.com/Editorial/Trends-and-Applications/Improving-Communication-Between-Data-Modelers-and-Enterprise-Stakeholders-118726.aspx)
 
 - Las bases de datos reflejan completamente la información con la que cuenta una empresa, sus objetivos y sus recursos.
 
