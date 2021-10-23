@@ -1,0 +1,19 @@
+CREATE USER angel;
+ALTER ROLE angel WITH PASSWORD '****';
+\s
+SET ROLE angel;
+\s
+CREATE DATABASE pract1 WITH OWNER angel;
+SET ROLE postgres;
+CREATE DATABASE pract1 WITH OWNER angel;
+SET ROLE angel;
+CREATE TABLE USUARIOS (
+nombre varchar(30),
+clave varchar(10)
+);
+insert into USUARIOS (nombre, clave) values ('Isa','asdf');
+insert into usuarios (nombre, clave) values ('Pablo','jfx344');
+insert into usuarios (nombre, clave) values ('Ana','tru3fal');
+\dt
+select * from usuarios;
+\s
